@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Mango",
+        "image": "/images/mango.jpg",
+        "description": "A mango is an edible stone fruit produced by the tropical tree Mangifera indica. It is believed to have originated between northwestern Myanmar, Bangladesh",
+        "price": 100,
+        "amount":1,
+        "stock":40
+    },
+    {
+        "id": 2,
+        "name": "Pomegranate",
+        "image": "/images/pomegranate.jpg",
+        "description": "low in calories and fat but high in fiber, vitamins, and minerals.Benefits include antioxidants, heart health, urinary health, exercise endurance",
+        "price": 100,
+        "amount":1,
+        "stock":50
+    },
+    {
+        "id": 3,
+        "name": "Plum",
+        "image": "/images/plum.jpg",
+        "description": "Vitamin C found in plums helps your body build muscle, form blood vessels, recover, and is beneficial for eyes. It is a fruit of some species in Prunus subg",
+        "price": 60,
+        "amount":1,
+        "stock":20
+    },
+    {
+        "id": 4,
+        "name": "Orange",
+        "image": "/images/orange.jpg",
+        "description": "Type of low calorie, highly nutritious citrus fruit. contribute to strong, clear skin and can help lower a person’s risk of many conditions.",
+        "price": 80,
+        "amount":1,
+        "stock":60
+    },
+    {
+        "id": 5,
+        "name": "Water Melon",
+        "image": "/images/watermelon.jpg",
+        "description": "sweet and refreshing low calorie,provides hydration and also essential nutrients, including vitamins, minerals, and antioxidants",
+        "price": 35,
+        "amount":1,
+        "stock":80
+    },
+    {
+        "id": 6,
+        "name": "Lemon",
+        "image": "/images/lemon.jpg",
+        "description": "Citric acid may amount to 5 percent or more by weight of the lemon’s juice, rich in vitamin C and contains smaller amounts of  B vitamins, riboflavin, niacin.",
+        "price": 25,
+        "amount":1,
+        "stock":15
+    },
+    {
+        "id": 7,
+        "name": "Guava",
+        "image": "/images/guava.jpg",
+        "description": "Guava fruits are amazingly rich in antioxidants, vitamin C, potassium, and fiber.remarkable nutrient content gives them many health benefits",
+        "price": 70,
+        "amount":1,
+        "stock":20
+    },
+    {
+        "id": 8,
+        "name": "Grapes",
+        "image": "/images/Grapes.jpg",
+        "description": "Their colorful globe-like, juicy, sugary berries are what we call grapes, whether they come in blue, purple, red, pink, green, violet.",
+        "price": 50,
+        "amount":1,
+        "stock":15
+    },
+    {
+        "id": 9,
+        "name": "Pine apple",
+        "image": "/images/pineapple.jpg",
+        "description": "Pineapple(Ananas comosus)tropical fruit,packed with nutrients, antioxidants, and such as enzymes protect against inflammation and disease,freshlycut",
+        "price": 40,
+        "amount":1,
+        "stock":25
+    }
+
+]

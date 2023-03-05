@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn&display=swap');
+
+.baseNothing {
+  background-image: url("../../public/images/nothing.jpg");
+  background-size: cover;
+}
+
+.blocky{
+   display:flex;
+   justify-content: flex-end; 
+   margin-top: 69px;
+   font-family: 'Vollkorn', serif;
+}
+
+.explore{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 150px;
+}

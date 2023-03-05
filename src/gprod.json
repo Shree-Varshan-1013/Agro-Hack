@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Rice",
+        "image": "/images/rice.jpg",
+        "description": "The seed of the grass species Oryza sativa (Asian rice), 95 percent of the world's rice crop is eaten by humans",
+        "price": 45,
+        "amount":1,
+        "stock":2000
+    },
+    {
+        "id": 2,
+        "name": "Wheat",
+        "image": "/images/wheat.jpg",
+        "description": "Wheat is a grass widely cultivated for its seed, cereal grain that is a staple food and started being cultivated 10,000 years ago",
+        "price": 35,
+        "amount":1,
+        "stock":1500
+    },
+    {
+        "id": 3,
+        "name": "Sorgum",
+        "image": "/images/sorgum.jpg",
+        "description": "Flowering plants in the grass family (Poaceae), It's low in fat, but high in protein, fiber, B vitamins.",
+        "price": 40,
+        "amount":1,
+        "stock":500
+    },
+    {
+        "id": 4,
+        "name": "Teff",
+        "image": "/images/teff.jpg",
+        "description": "Teff is a seed sized grain that is a staple crop of Ethiopia. People In India would know of Ragi, a close cousin of Teff",
+        "price": 43,
+        "amount":1,
+        "stock":200
+    },
+    {
+        "id": 5,
+        "name": "Sweetcorn",
+        "image": "/images/sweetcorn.jpg",
+        "description": "called sugar corn and pole corn, is a variety of maize grown for human consumption with a high sugar content",
+        "price": 20,
+        "amount":1,
+        "stock":200
+    },
+    {
+        "id": 6,
+        "name": "Brown Rice",
+        "image": "/images/brown rice.jpg",
+        "description": "Brown rice is a whole grain rice with the inedible outer hull removed. Brown rice is more nutrient-dense",
+        "price": 20,
+        "amount":1,
+        "stock":800
+    },
+    {
+        "id": 7,
+        "name": "Black quinoa",
+        "image": "/images/Blackquinoa.jpg",
+        "description": "Quinoa is a grain-like seed with a mild, nutty flavor.Our Black Quinoa is naturally dark colored.",
+        "price": 50,
+        "amount":1,
+        "stock":300
+    },
+    {
+        "id": 8,
+        "name": "Amarnath",
+        "image": "/images/amaranth.jpg",
+        "description": " Amaranth grain can also be used to extract amaranth oil, a pressed seed oil with commercial uses.",
+        "price": 50,
+        "amount":1,
+        "stock":550
+    },
+    {
+        "id": 9,
+        "name": "Oat",
+        "image": "/images/oat.jpg",
+        "description": "The nutrient composition is well-balanced,good source of carbs and fiber,including fiber beta-glucan",
+        "price": 70,
+        "amount":1,
+        "stock":1500
+    }
+]

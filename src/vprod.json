@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Tomato",
+        "image": "/images/tomato.jpg",
+        "description": "consumed in diverse ways: raw or cooked, and in many dishes, sauces, salads, and drinks",
+        "price": 25,
+        "amount":1,
+        "stock":120
+    },
+    {
+        "id": 2,
+        "name": "Potato",
+        "image": "/images/potato.jpg",
+        "description": "The potato is a starchy food, The tubers are highly digestible and supply vitamin C, protein, thiamin, and niacin",
+        "price": 20,
+        "amount":1,
+        "stock":100
+    },
+    {
+        "id": 3,
+        "name": "Lady's Finger",
+        "image": "/images/ladiesfinger.jpg",
+        "description": "considered a good source of carbohydrates,proteins,vitamins,enzymes,calcium,potassium and many other nutrients",
+        "price": 30,
+        "amount":1,
+        "stock":80
+    },
+    {
+        "id": 4,
+        "name": "chilli",
+        "image": "/images/chilly.jpg",
+        "description": "Chili peppers are members of the nightshade (Solanaceae) family and are related to tomatoes, cherries and eggplant",
+        "price": 43,
+        "amount":1,
+        "stock":20
+    },
+    {
+        "id": 5,
+        "name": "garlic",
+        "image": "/images/garlic.jpg",
+        "description": "It was known to ancient Egyptians and has been used as both a food flavoring and a traditional medicine",
+        "price": 20,
+        "amount":1,
+        "stock":45
+    },
+    {
+        "id": 6,
+        "name": "Cabbage",
+        "image": "/images/cabbage.jpg",
+        "description": "Cabbage, comprising several cultivars of Brassica oleracea, is a leafy green, red (purple), or white (pale green)",
+        "price": 15,
+        "amount":1,
+        "stock":70
+    },
+    {
+        "id": 7,
+        "name": "Brinjal",
+        "image": "/images/Brinjal.jpg",
+        "description":"Brinjal (Solanum melongena), also known as eggplant or aubergine, is an easily cultivated plant",
+        "price": 28,
+        "amount":1,
+        "stock":60
+    },
+    {
+        "id": 8,
+        "name": "Beetroot",
+        "image": "/images/beetroot.jpg",
+        "description": "contain a good amount of manganese, which is involved in bone formation, nutrient metabolism, brain function",
+        "price": 50,
+        "amount":1,
+        "stock":50
+    },
+    {
+        "id": 9,
+        "name": "Pumpkin",
+        "image": "/images/pumpkin.jpg",
+        "description": " traditional Halloween decoration .The flesh provides a range of health benefits outside of popular festivities.",
+        "price": 50,
+        "amount":1,
+        "stock":30
+    }
+
+]

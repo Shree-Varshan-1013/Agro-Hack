@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Playfair+Display+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Playfair+Display+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+b{
+    font-size: 20px;
+    font-weight: 1900;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.head {
+    font-family: 'Cinzel', serif;
+    font-weight: 600;
+}
+
+li, p, .contentb {
+    font-family: 'Jost', sans-serif;
+    font-weight: 600;
+    line-height: 30px;
+    font-size: large;
+}
+
+.contentb{
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    /* color: red;      */
+}

@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    
+    .main{
+    background-image:linear-gradient(to top,rgba(0, 0, 0, 0.5)50%,rgba(0, 0, 0, 0.5)50%),
+    url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/J9020Burol15Balagtasfvf.JPG/1200px-J9020Burol15Balagtasfvf.JPG");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    }
+
+    
+    .icon{
+     width: 200px;
+     float: left;
+     height: 70px;  
+    }
+    
+    .logo{
+     color: #41fd02;
+     size: 0px;
+     font-size: 45px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     padding-left: 20px;
+     float: left;
+     padding-top: 10px;
+     margin-top: 5px
+    }
+    
+    .menu{
+     width: 300px;
+     float: left;
+     height: 70px;
+    }
+    
+    ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    ul li{
+    list-style: none;
+    margin-left: 45px;
+    margin-top: 27px;
+    font-size: 16px;
+    }
+    
+    ul li a{
+     text-decoration: none;
+     color: #fff;
+     font-family: Arial;
+     font-weight: bold;
+     transition: 0.4s ease-in-out;
+    }
+    
+    ul li a:hover{
+    color: #2ee47d;
+    }
+    
+    .search{
+    width: auto;
+    float: right;
+    
+    }
+    
+    ::placeholder{
+     color: aliceblue;
+    }
+    
+    .srch{
+     font-family: 'Times New Roman';
+     width: 200px;
+     height: 40px;
+     background: transparent;
+    color: #02612b;
+     border: 1px solid ;
+     margin-top: 13px;
+     color: #fff;
+     border-right: none;
+     font-size: 16px;
+     float: left;
+     padding: 10px;
+     border-bottom-left-radius: 5px;
+     border-top-left-radius: 5px;
+    }
+    
+    .btn{
+     width: 100px;
+    height: 40px;
+     background: #02612b;
+     border: 2px solid #f9fbfa;
+     margin-top: 13px;
+     color: #fff;
+     font-size: 15px;
+     border-bottom-right-radius: 5px;
+     border-bottom-right-radius: 5px;
+     transition: 0.2s ease;
+     cursor: pointer;
+    }
+    .btn:hover{
+    color: #000;
+    }
+    
+    .btn:focus{
+     outline: none;
+    }
+    
+    .srch:focus{
+    outline: none;
+    }
+    
+    .content{
+     width: 1200px;
+     height: auto;
+     margin: auto;
+     color: #fff;
+    position: relative;
+    }
+    
+    .content .par{
+     padding-left: 20px;
+     padding-bottom: 25px;
+     font-family: Arial;
+     letter-spacing: 1.2px;
+     line-height: 30px;
+    font-size: 15px;
+    }
+    
+    .content h1{
+     font-family: 'Times New Roman';
+     font-size: 50px;
+     padding-left: 20px;    
+     letter-spacing: 2px;
+    }
+    
+    .cn{
+     width: 160px;
+     height: 40px;
+     background: #41fd02;
+     border: none;
+     margin-bottom: 10px;
+     margin-left: 20px;
+     font-size: 18px;
+     border-radius: 10px;
+     cursor: pointer;
+     transition: .4s ease;
+    
+    }
+    
+    .cn a{
+     text-decoration: none;
+     font-weight: bolder;
+     color: rgb(247, 8, 116);
+    transition: .3s ease;
+    }
+    
+    .cn:hover{
+    background-color: #fff;
+    }
+    
+    .content span{
+     color: #41fd02;
+     font-size: 65px
+    }
+    
+    .content q{
+     color:#fff;
+     font-size: 25px
+    }
+    
+    .btnn{
+     width: 240px;
+     height: 40px;
+     background: #ff7200;
+     border: none;
+     margin-top: 30px;
+     font-size: 18px;
+     border-radius: 10px;
+     cursor: pointer;
+    color: #fff;
+    transition: 0.4s ease;
+    }
+    .btnn:hover{
+     background: #fff;
+     color: #02612b;
+    }
+    .btnn a{
+     text-decoration: none;
+     color: #fff;
+     font-weight: bold;
+    }
+    .form .link{
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 17px;
+     padding-top: 20px;
+    text-align: center;
+    }
+    .form .link a{
+    text-decoration: none;
+    color: #ff7200;
+    }
+    .liw{
+     padding-top: 15px;
+     padding-bottom: 10px;
+     text-align: center;
+    }
+    .icons a{
+     text-decoration: none;
+     color: #fff;
+    }
+    .icons ion-icon{
+     color: #fff;
+     font-size: 30px;
+     padding-left: 14px;
+     padding-top: 5px;
+     transition: 0.3s ease;
+    }
+    .icons ion-icon:hover{
+     color: #ff7200;
+    }

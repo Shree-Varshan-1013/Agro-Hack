@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+#pay-head{
+    font-family: 'Jost', sans-serif;
+    margin-top: 13rem;
+}
+
+#confirm-button{
+    font-family: 'Jost', sans-serif;
+    margin-top: 10px;
+}

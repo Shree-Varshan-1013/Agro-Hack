@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 100%;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%),
+        url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/J9020Burol15Balagtasfvf.JPG/1200px-J9020Burol15Balagtasfvf.JPG");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.form {
+    width: 1000px;
+    background: linear-gradient(to top, rgba(3, 254, 183, 0.559)10%, rgba(3, 254, 183, 0.295)10%);
+    margin-left: 250px;
+    margin-top: 70px;
+    position: absolute;
+}
+
+.form h1 {
+    text-align: center;
+    color: aqua;
+}
+
+.form label {
+    color: gold;
+
+}
+
+.form label.radio-inline {
+    color: rgb(47, 255, 0);
+}
+
+.form.btn {
+
+    color: #fff;
+    border: rgb(0, 0, 0);
+    border-bottom: #000;
+    border-top: black;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 1px;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s ease;
+}
+
+.btn {
+    width: 60px;
+    height: 34px;
+    font-size: 16px;
+    color: white;
+}
+
+.btn a {
+    text-decoration: none;
+    color: rgb(252, 252, 252);
+    font-weight: bold;
+}
+
+.btn a:hover {
+    background: rgba(255, 255, 255, 0);
+    color: #3700ff;
+}
